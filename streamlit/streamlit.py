@@ -1,4 +1,3 @@
-
 import streamlit as st
 from snowflake.snowpark.context import get_active_session
 
@@ -6,8 +5,8 @@ from snowflake.snowpark.context import get_active_session
 st.markdown(
     """
     <div style="text-align: center;">
-        <img src="https://banner2.cleanpng.com/20180411/bxw/avf075qi6.webp" alt="Logo" style="width: 100px; margin-bottom: 10px;">
-    </div>
+        <img src="https://logowik.com/content/uploads/images/siemens-energy-bg-white8861.logowik.com.webp" alt="Logo" style="width: 100px; margin-bottom: 10px;">
+
     """,
     unsafe_allow_html=True
 )
